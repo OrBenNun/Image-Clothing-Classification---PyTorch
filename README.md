@@ -1,4 +1,3 @@
-# Image-Clothing-Classification---PyTorch
 ![alt text](https://www.codeproject.com/KB/AI/5297227/image0001.png)
 
 
